@@ -1,0 +1,33 @@
+div {
+	font-family:Garamond, Helvetica, sans serif;
+}
+.content {
+	padding:0px 20px 0px 0px;
+	height: 259px;
+	width: 547px;
+	background: none;
+	text-align:justify;
+	font-size:16;
+	line-height:150%;
+	color: floralwhite;
+	outline: none;
+	border: none;
+	resize: none;
+	overflow: auto;
+	
+}
+.contact {
+	padding:10px 20px 0px 0px;
+	height: 249px;
+	width: 447px;
+	background: none;
+	text-align:center;
+	font-size:16;
+	line-height:150%;
+	color: floralwhite;
+	outline: none;
+	border: none;
+	resize: none;
+	overflow: auto;
+	
+}
